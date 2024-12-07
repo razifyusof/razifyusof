@@ -17,12 +17,15 @@ I’m passionate about solving complex IT challenges, optimizing systems, and dr
 
 Let’s connect and collaborate on innovative projects or share insights into IT and cloud technologies! 🚀
 
-### 🌐 Contact Me
-📧 Email: mrazif.tech@gmail.com
-📱 Phone: +60 173 915 657
-📍 Location: Selangor, Malaysia
+### 🌐 Contact Me  
+📧 Email: [mrazif.tech@gmail.com](mailto:mrazif.tech@gmail.com)  
+📱 Phone: +60 173 915 657  
+📍 Location: Selangor, Malaysia  
 
-Feel free to explore my repositories for exciting projects and solutions! 😊
+📂 **Explore My Work**:  
+Check out my [ePortfolio](https://razifyusof.github.io/) for more insights into my experience, skills, and projects.  
+
+Feel free to explore my repositories for exciting projects and solutions! 😊 
 
 
 
