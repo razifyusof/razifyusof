@@ -19,7 +19,7 @@ Let’s connect and collaborate on innovative projects or share insights into IT
 
 ### 🌐 Contact Me  
 📧 Email: [mrazif.tech@gmail.com](mailto:mrazif.tech@gmail.com)  
-📱 Phone: +60 17 391 5657
+📱 Phone: Private to avoid scammer
 📍 Location: Selangor, Malaysia  
 
 📂 **Explore My Work**:  
